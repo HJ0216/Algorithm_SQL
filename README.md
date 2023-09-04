@@ -11,3 +11,4 @@
 - [[Programmers] 상위 n개 레코드 (Success)](https://hj0216.tistory.com/715)
 - [[Programmers] 이름이 있는 동물의 아이디 (Success)](https://hj0216.tistory.com/717)
 - [[Programmers] 최댓값 구하기 (Success)](https://hj0216.tistory.com/718)
+- [[Programmers] 강원도에 위치한 생산공장 목록 출력하기 (Success)](https://hj0216.tistory.com/721)
