@@ -13,3 +13,4 @@
 - [[Programmers] 최댓값 구하기 (Success)](https://hj0216.tistory.com/718)
 - [[Programmers] 강원도에 위치한 생산공장 목록 출력하기 (Success)](https://hj0216.tistory.com/721)
 - [[Programmers] 경기도에 위치한 식품창고 목록 출력하기 (Success)](https://hj0216.tistory.com/725)
+- [[Programmers] 나이 정보가 없는 회원 수 구하기 (Success)](https://hj0216.tistory.com/727)
