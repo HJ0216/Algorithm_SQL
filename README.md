@@ -19,3 +19,4 @@
 - [[Programmers] 12세 이하인 여자 환자 목록 출력하기 (Success)](https://hj0216.tistory.com/738)
 - [[Programmers] 흉부외과 또는 일반외과 의사 목록 출력하기 (Success)](https://hj0216.tistory.com/740)
 - [[Programmers] 인기있는 아이스크림 (Success)](https://hj0216.tistory.com/747)
+- [[Programmers] 과일로 만든 아이스크림 고르기 (Success)](https://hj0216.tistory.com/750)
