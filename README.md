@@ -21,6 +21,7 @@
 - [[Programmers] 인기있는 아이스크림 (Success)](https://hj0216.tistory.com/747)
 - [[Programmers] 과일로 만든 아이스크림 고르기 (Success)](https://hj0216.tistory.com/750)
 - [[Programmers] 조건에 맞는 도서 리스트 출력하기 (Success)](https://hj0216.tistory.com/752)
+- [[Programmers] 평균 일일 대여 요금 구하기 (Success)](https://hj0216.tistory.com/755)
 
 
 # Algorithm-Java 문제 풀이
