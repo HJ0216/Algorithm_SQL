@@ -27,3 +27,4 @@
 # Algorithm-Java 문제 풀이
 ## Lv. 1
 - [[Programmers] 폰켓몬 문제 풀이 (Success)](https://hj0216.tistory.com/754)
+- [[Programmers] 가운데 글자 가져오기 (Success)](https://hj0216.tistory.com/757)
