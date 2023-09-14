@@ -22,6 +22,7 @@
 - [[Programmers] 과일로 만든 아이스크림 고르기 (Success)](https://hj0216.tistory.com/750)
 - [[Programmers] 조건에 맞는 도서 리스트 출력하기 (Success)](https://hj0216.tistory.com/752)
 - [[Programmers] 평균 일일 대여 요금 구하기 (Success)](https://hj0216.tistory.com/755)
+- [[Programmers] 자동차 대여 기록에서 장기/단기 대여 구분하기 (Success)](https://hj0216.tistory.com/758)
 
 
 # Algorithm-Java 문제 풀이
