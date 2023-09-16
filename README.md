@@ -1,5 +1,12 @@
-# Algorithm-SQL 문제 풀이
+# Algorithm-Java 문제 풀이
+## Lv. 1
+- [[Programmers] 폰켓몬 문제 풀이 (Success)](https://hj0216.tistory.com/754)
+- [[Programmers] 가운데 글자 가져오기 (Success)](https://hj0216.tistory.com/757)
+- [[Programmers] 같은 숫자는 싫어 (Success)](https://hj0216.tistory.com/760)
 
+
+
+# Algorithm-SQL 문제 풀이
 ## Lv. 1
 - [[Programmers] 모든 레코드 조회하기 (Success)](https://hj0216.tistory.com/706)
 - [[Programmers] 어린 동물 찾기 (Success)](https://hj0216.tistory.com/695)
@@ -24,10 +31,4 @@
 - [[Programmers] 평균 일일 대여 요금 구하기 (Success)](https://hj0216.tistory.com/755)
 - [[Programmers] 자동차 대여 기록에서 장기/단기 대여 구분하기 (Success)](https://hj0216.tistory.com/758)
 - [[Programmers] 특정 옵션이 포함된 자동차 리스트 구하기 (Success)](https://hj0216.tistory.com/759)
-
-
-# Algorithm-Java 문제 풀이
-## Lv. 1
-- [[Programmers] 폰켓몬 문제 풀이 (Success)](https://hj0216.tistory.com/754)
-- [[Programmers] 가운데 글자 가져오기 (Success)](https://hj0216.tistory.com/757)
-- [[Programmers] 같은 숫자는 싫어 (Success)](https://hj0216.tistory.com/760)
+- [[Programmers] 조건에 부합하는 중고거래 댓글 조회하기 (Success)](https://hj0216.tistory.com/762)
