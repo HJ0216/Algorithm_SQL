@@ -32,3 +32,5 @@
 - [[Programmers] 자동차 대여 기록에서 장기/단기 대여 구분하기 (Success)](https://hj0216.tistory.com/758)
 - [[Programmers] 특정 옵션이 포함된 자동차 리스트 구하기 (Success)](https://hj0216.tistory.com/759)
 - [[Programmers] 조건에 부합하는 중고거래 댓글 조회하기 (Success)](https://hj0216.tistory.com/762)
+## Lv. 2
+- [[Programmers] 최솟값 구하기 (Success)](https://hj0216.tistory.com/766)
