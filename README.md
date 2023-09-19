@@ -35,3 +35,4 @@
 - [[Programmers] 조건에 부합하는 중고거래 댓글 조회하기 (Success)](https://hj0216.tistory.com/762)
 ## Lv. 2
 - [[Programmers] 최솟값 구하기 (Success)](https://hj0216.tistory.com/766)
+- [[Programmers] 고양이와 개는 몇 마리 있을까 (Success)](https://hj0216.tistory.com/768)
