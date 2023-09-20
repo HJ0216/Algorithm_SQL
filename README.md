@@ -37,3 +37,4 @@
 ## Lv. 2
 - [[Programmers] 최솟값 구하기 (Success)](https://hj0216.tistory.com/766)
 - [[Programmers] 고양이와 개는 몇 마리 있을까 (Success)](https://hj0216.tistory.com/768)
+- [[Programmers] 동명 동물 수 찾기 (Success)](https://hj0216.tistory.com/772)
