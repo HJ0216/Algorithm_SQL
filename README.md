@@ -40,3 +40,4 @@
 - [[Programmers] 고양이와 개는 몇 마리 있을까 (Success)](https://hj0216.tistory.com/768)
 - [[Programmers] 동명 동물 수 찾기 (Success)](https://hj0216.tistory.com/772)
 - [[Programmers] 루시와 엘라 찾기 (Success)](https://hj0216.tistory.com/775)
+- [[Programmers] 이름에 el이 들어가는 동물 찾기 (Success)](https://hj0216.tistory.com/777)
