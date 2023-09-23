@@ -43,3 +43,4 @@
 - [[Programmers] 루시와 엘라 찾기 (Success)](https://hj0216.tistory.com/775)
 - [[Programmers] 이름에 el이 들어가는 동물 찾기 (Success)](https://hj0216.tistory.com/777)
 - [[Programmers] 동물 수 구하기 (Success)](https://hj0216.tistory.com/784)
+- [[Programmers] 중복 제거하기 (Success)](https://hj0216.tistory.com/788)
