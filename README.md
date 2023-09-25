@@ -44,3 +44,4 @@
 - [[Programmers] 이름에 el이 들어가는 동물 찾기 (Success)](https://hj0216.tistory.com/777)
 - [[Programmers] 동물 수 구하기 (Success)](https://hj0216.tistory.com/784)
 - [[Programmers] 중복 제거하기 (Success)](https://hj0216.tistory.com/788)
+- [[Programmers] 중성화 여부 파악하기 (Success)](https://hj0216.tistory.com/790)
