@@ -47,3 +47,4 @@
 - [[Programmers] 중성화 여부 파악하기 (Success)](https://hj0216.tistory.com/790)
 - [[Programmers] NULL 처리하기 (Success)](https://hj0216.tistory.com/795)
 - [[Programmers] 입양 시각 구하기(1) (Success)](https://hj0216.tistory.com/799)
+- [[Programmers] DATETIME에서 DATE로 형 변환 (Success)](https://hj0216.tistory.com/801)
