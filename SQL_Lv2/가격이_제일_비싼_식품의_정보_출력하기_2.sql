@@ -1,0 +1,11 @@
+SELECT *
+  FROM FOOD_PRODUCT
+ WHERE PRICE = (
+     SELECT PRICE
+       FROM (
+           SELECT PRICE
+             FROM FOOD_PRODUCT
+         ORDER BY PRICE DESC
+       )
+      WHERE ROWNUM = 1
+);

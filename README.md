@@ -48,3 +48,4 @@
 - [[Programmers] NULL 처리하기 (Success)](https://hj0216.tistory.com/795)
 - [[Programmers] 입양 시각 구하기(1) (Success)](https://hj0216.tistory.com/799)
 - [[Programmers] DATETIME에서 DATE로 형 변환 (Success)](https://hj0216.tistory.com/801)
+- [[Programmers] 가격이 제일 비싼 식품의 정보 출력하기 (Success)](https://hj0216.tistory.com/804)
