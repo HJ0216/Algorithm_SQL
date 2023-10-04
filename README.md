@@ -54,3 +54,4 @@
 - [[Programmers] 3월에 태어난 여성 회원 목록 출력하기 (Success)](https://hj0216.tistory.com/807)
 - [[Programmers] 카테고리 별 상품 개수 구하기 (Success)](https://hj0216.tistory.com/812)
 - [[Programmers] 가격대 별 상품 개수 구하기 (Success)](https://hj0216.tistory.com/815)
+- [[Programmers] 상품 별 오프라인 매출 구하기 (Success)](https://hj0216.tistory.com/819)
