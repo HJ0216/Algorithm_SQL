@@ -57,3 +57,4 @@
 - [[Algorithm_SQL] 상품 별 오프라인 매출 구하기 (Success)](https://hj0216.tistory.com/819)
 - [[Algorithm_SQL] 재구매가 일어난 상품과 회원 리스트 구하기 (Success)](https://hj0216.tistory.com/824)
 - [[Algorithm_SQL] 조건에 맞는 도서와 저자 리스트 출력하기 (Success)](https://hj0216.tistory.com/826)
+- [[Algorithm_SQL] 진료과별_총_예약_횟수_출력하기 (Success)](https://hj0216.tistory.com/827)
