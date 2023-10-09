@@ -38,6 +38,7 @@
 - [[Programmers] 자동차 대여 기록에서 장기/단기 대여 구분하기 (Success)](https://hj0216.tistory.com/758)
 - [[Programmers] 특정 옵션이 포함된 자동차 리스트 구하기 (Success)](https://hj0216.tistory.com/759)
 - [[Programmers] 조건에 부합하는 중고거래 댓글 조회하기 (Success)](https://hj0216.tistory.com/762)
+
 ## Lv. 2
 - [[Programmers] 최솟값 구하기 (Success)](https://hj0216.tistory.com/766)
 - [[Programmers] 고양이와 개는 몇 마리 있을까 (Success)](https://hj0216.tistory.com/768)
@@ -58,3 +59,6 @@
 - [[Algorithm_SQL] 재구매가 일어난 상품과 회원 리스트 구하기 (Success)](https://hj0216.tistory.com/824)
 - [[Algorithm_SQL] 조건에 맞는 도서와 저자 리스트 출력하기 (Success)](https://hj0216.tistory.com/826)
 - [[Algorithm_SQL] 진료과별_총_예약_횟수_출력하기 (Success)](https://hj0216.tistory.com/827)
+
+## Lv. 3
+- [[Algorithm_SQL] 없어진_기록_찾기 (Success)](https://hj0216.tistory.com/832)
