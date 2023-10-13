@@ -10,6 +10,9 @@
 - [[Programmers] 소수 만들기 (Success)](https://hj0216.tistory.com/767)
 - [[Algorithm_Java] 문자열 내 마음대로 정렬하기 (Success)](https://hj0216.tistory.com/838)
 
+## Lv. 2
+- [[Algorithm_Java] 연속된 부분 수열의 합 (Success)](https://hj0216.tistory.com/841)
+
 <br/>
 
 
