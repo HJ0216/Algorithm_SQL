@@ -68,6 +68,7 @@
 - [[Algorithm_SQL] 성분으로 구분한 아이스크림 총 주문량 (Success)](https://hj0216.tistory.com/834)
 - [[Algorithm_SQL] 조건에 맞는 도서와 저자 리스트 출력하기 (Success)](https://hj0216.tistory.com/826)
 - [[Algorithm_SQL] 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기 (Success)](https://hj0216.tistory.com/843)
+- [[Algorithm_SQL] 자동차 평균 대여 기간 구하기 (Success)](https://hj0216.tistory.com/848)
 
 ## Lv. 3
 - [[Algorithm_SQL] 없어진 기록 찾기 (Success)](https://hj0216.tistory.com/832)
