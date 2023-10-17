@@ -9,6 +9,7 @@
 - [[Programmers] 문자열 내 마음대로 정렬하기 (Success)](https://hj0216.tistory.com/778)
 - [[Programmers] 소수 만들기 (Success)](https://hj0216.tistory.com/767)
 - [[Algorithm_Java] 문자열 내 마음대로 정렬하기 (Success)](https://hj0216.tistory.com/838)
+- [[Algorithm_Java] 문자열 내 마음대로 정렬하기 (Success)](https://hj0216.tistory.com/851)
 
 ## Lv. 2
 - [[Algorithm_Java] 뒤에 있는 큰 수 찾기 (Success)](https://hj0216.tistory.com/845)
