@@ -77,3 +77,4 @@
 - [[Algorithm_SQL] 없어진 기록 찾기 (Success)](https://hj0216.tistory.com/832)
 - [[Algorithm_SQL] 있었는데요 없었습니다 (Success)](https://hj0216.tistory.com/842)
 - [[Algorithm_SQL] 오랜 기간 보호한 동물(1) (Success)](https://hj0216.tistory.com/846)
+- [[Algorithm_SQL] 오랜 기간 보호한 동물(2) (Success)](https://hj0216.tistory.com/854)
