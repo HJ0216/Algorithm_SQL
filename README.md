@@ -12,6 +12,7 @@
 - [[Algorithm_Java] 문자열 내 마음대로 정렬하기 (Success)](https://hj0216.tistory.com/851)
 
 ## Lv. 2
+- [[Algorithm_Java] 시소 짝꿍 (Success)](https://hj0216.tistory.com/850)
 - [[Algorithm_Java] 뒤에 있는 큰 수 찾기 (Success)](https://hj0216.tistory.com/845)
 - [[Algorithm_Java] 광물 캐기 (Success)](https://hj0216.tistory.com/844)
 - [[Algorithm_Java] 연속된 부분 수열의 합 (Success)](https://hj0216.tistory.com/841)
