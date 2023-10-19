@@ -7,9 +7,10 @@
 - [[Programmers] 나누어 떨어지는 숫자 배열 (Success)](https://hj0216.tistory.com/769)
 - [[Programmers] 두 정수 사이의 합 (Success)](https://hj0216.tistory.com/776)
 - [[Programmers] 문자열 내 마음대로 정렬하기 (Success)](https://hj0216.tistory.com/778)
+- [[Algorithm_Java] 문자열 내 p와 y의 개수 (Success)](https://hj0216.tistory.com/838)
+- [[Algorithm_Java] 문자열 내림차순으로 배치하기 (Success)](https://hj0216.tistory.com/851)
 - [[Programmers] 소수 만들기 (Success)](https://hj0216.tistory.com/767)
-- [[Algorithm_Java] 문자열 내 마음대로 정렬하기 (Success)](https://hj0216.tistory.com/838)
-- [[Algorithm_Java] 문자열 내 마음대로 정렬하기 (Success)](https://hj0216.tistory.com/851)
+- [[Algorithm_Java] 달리기 경주 (Success)](https://hj0216.tistory.com/857)
 
 ## Lv. 2
 - [[Algorithm_Java] 시소 짝꿍 (Success)](https://hj0216.tistory.com/850)
