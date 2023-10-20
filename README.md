@@ -80,3 +80,4 @@
 - [[Algorithm_SQL] 있었는데요 없었습니다 (Success)](https://hj0216.tistory.com/842)
 - [[Algorithm_SQL] 오랜 기간 보호한 동물(1) (Success)](https://hj0216.tistory.com/846)
 - [[Algorithm_SQL] 오랜 기간 보호한 동물(2) (Success)](https://hj0216.tistory.com/854)
+- [[Algorithm_SQL] 헤비 유저가 소유한 장소 (Success)](https://hj0216.tistory.com/859)
