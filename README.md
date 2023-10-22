@@ -82,6 +82,7 @@
 - [[Algorithm_SQL] 오랜 기간 보호한 동물(1) (Success)](https://hj0216.tistory.com/846)
 - [[Algorithm_SQL] 오랜 기간 보호한 동물(2) (Success)](https://hj0216.tistory.com/854)
 - [[Algorithm_SQL] 헤비 유저가 소유한 장소 (Success)](https://hj0216.tistory.com/859)
+- [[Algorithm_SQL] 조건별로 분류하여 주문상태 출력하기 (Success)](https://hj0216.tistory.com/863)
 
 ## Lv. 4
 - [[Algorithm_SQL] 보호소에서 중성화한 동물 (Success)](https://hj0216.tistory.com/861)
