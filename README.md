@@ -10,6 +10,7 @@
 - [[Algorithm_Java] 문자열 내 p와 y의 개수 (Success)](https://hj0216.tistory.com/838)
 - [[Algorithm_Java] 문자열 내림차순으로 배치하기 (Success)](https://hj0216.tistory.com/851)
 - [[Algorithm_Java] 문자열 다루기 기본 (Success)](https://hj0216.tistory.com/866)
+- [[Algorithm_Java] 문자열 다루기 기본 (Success)](https://hj0216.tistory.com/867)
 - [[Programmers] 소수 만들기 (Success)](https://hj0216.tistory.com/767)
 - [[Algorithm_Java] 바탕화면 정리 (Success)](https://hj0216.tistory.com/862)
 - [[Algorithm_Java] 추억 점수 (Success)](https://hj0216.tistory.com/858)
