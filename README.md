@@ -12,6 +12,7 @@
 - [[Algorithm_Java] 문자열 다루기 기본 (Success)](https://hj0216.tistory.com/866)
 - [[Algorithm_Java] 서울에서 김서방 찾기 (Success)](https://hj0216.tistory.com/867)
 - [[Algorithm_Java] 소수 찾기 (Success)](https://hj0216.tistory.com/868)
+- [[Algorithm_Java] 수박수박수박수박수박수? (Success)](https://hj0216.tistory.com/869)
 - [[Programmers] 소수 만들기 (Success)](https://hj0216.tistory.com/767)
 - [[Algorithm_Java] 바탕화면 정리 (Success)](https://hj0216.tistory.com/862)
 - [[Algorithm_Java] 추억 점수 (Success)](https://hj0216.tistory.com/858)
