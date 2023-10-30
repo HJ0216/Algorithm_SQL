@@ -15,6 +15,7 @@
 - [[Algorithm_Java] 수박수박수박수박수박수? (Success)](https://hj0216.tistory.com/869)
 - [[Algorithm_Java] 문자열을 정수로 바꾸기 (Success)](https://hj0216.tistory.com/870)
 - [[Algorithm_Java] 시저 암호 (Success)](https://hj0216.tistory.com/872)
+- [[Algorithm_Java] 약수의 합 (Success)](https://hj0216.tistory.com/873)
 - [[Programmers] 소수 만들기 (Success)](https://hj0216.tistory.com/767)
 - [[Algorithm_Java] 바탕화면 정리 (Success)](https://hj0216.tistory.com/862)
 - [[Algorithm_Java] 추억 점수 (Success)](https://hj0216.tistory.com/858)
