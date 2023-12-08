@@ -92,6 +92,15 @@
 - [[Algorithm_SQL] 조건별로 분류하여 주문상태 출력하기 (Success)](https://hj0216.tistory.com/863)
 - [[Algorithm_SQL] 즐겨찾기가 가장 많은 식당 정보 출력하기 (Success)](https://hj0216.tistory.com/864)
 - [[Algorithm_SQL] 카테고리 별 도서 판매량 집계하기 (Success)](https://hj0216.tistory.com/874)
+- [Algorithm_SQL] 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기 (Success)
+- [Algorithm_SQL] 조건에 맞는 사용자와 총 거래금액 조회하기 (Success)
+- [Algorithm_SQL] 대여 기록이 존재하는 자동차 리스트 구하기 (Success)
+- [Algorithm_SQL] 조건에 맞는 사용자 정보 조회하기 (Success)
+- [Algorithm_SQL] 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기 (Success)
 
 ## Lv. 4
 - [[Algorithm_SQL] 보호소에서 중성화한 동물 (Success)](https://hj0216.tistory.com/861)
+- [Algorithm_SQL] 5월 식품들의 총매출 조회하기 (Success)
+- [Algorithm_SQL] 식품분류별 가장 비싼 식품의 정보 조회하기 (Success)
+- [Algorithm_SQL] 우유와 요거트가 담긴 장바구니 (Success)
+- [Algorithm_SQL] 취소되지 않은 진료 예약 조회하기 (Success)
