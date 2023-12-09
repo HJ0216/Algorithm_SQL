@@ -97,6 +97,7 @@
 - [Algorithm_SQL] 대여 기록이 존재하는 자동차 리스트 구하기 (Success)
 - [Algorithm_SQL] 조건에 맞는 사용자 정보 조회하기 (Success)
 - [Algorithm_SQL] 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기 (Success)
+- [Algorithm_SQL] 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기 (Success)
 
 ## Lv. 4
 - [[Algorithm_SQL] 보호소에서 중성화한 동물 (Success)](https://hj0216.tistory.com/861)
