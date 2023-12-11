@@ -105,3 +105,4 @@
 - [Algorithm_SQL] 식품분류별 가장 비싼 식품의 정보 조회하기 (Success)
 - [Algorithm_SQL] 우유와 요거트가 담긴 장바구니 (Success)
 - [Algorithm_SQL] 취소되지 않은 진료 예약 조회하기 (Success)
+- [Algorithm_SQL] 서울에 위치한 식당 목록 출력하기 (Success)

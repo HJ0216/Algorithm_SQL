@@ -1,0 +1,19 @@
+WITH AVG_DATA AS (
+      SELECT REST_ID
+             , ROUND(AVG(REVIEW_SCORE), 2) SCORE
+        FROM REST_REVIEW
+    GROUP BY REST_ID
+)
+  SELECT I.REST_ID
+         , I.REST_NAME
+         , I.FOOD_TYPE
+         , I.FAVORITES
+         , I.ADDRESS
+         , A.SCORE
+    FROM REST_INFO I
+    JOIN AVG_DATA A
+      ON I.REST_ID = A.REST_ID
+   WHERE SUBSTR(I.ADDRESS, 1, 2) = '서울'
+ORDER BY SCORE DESC
+         , FAVORITES DESC
+;
