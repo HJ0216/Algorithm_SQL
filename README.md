@@ -107,3 +107,4 @@
 - [Algorithm_SQL] 취소되지 않은 진료 예약 조회하기 (Success)
 - [Algorithm_SQL] 서울에 위치한 식당 목록 출력하기 (Success)
 - [Algorithm_SQL] 년, 월, 성별 별 상품 구매 회원 수 구하기 (Success)
+- [Algorithm_SQL] 저자 별 카테고리 별 매출액 집계하기 (Success)
