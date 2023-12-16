@@ -109,3 +109,4 @@
 - [Algorithm_SQL] 년, 월, 성별 별 상품 구매 회원 수 구하기 (Success)
 - [Algorithm_SQL] 저자 별 카테고리 별 매출액 집계하기 (Success)
 - [Algorithm_SQL] 오프라인/온라인 판매 데이터 통합하기 (Success)
+- [Algorithm_SQL] 주문량이 많은 아이스크림들 조회하기 (Success)
