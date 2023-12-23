@@ -112,3 +112,4 @@
 - [Algorithm_SQL] 주문량이 많은 아이스크림들 조회하기 (Success)
 - [Algorithm_SQL] 그룹별 조건에 맞는 식당 목록 출력하기 (Success)
 - [Algorithm_SQL] 입양 시각 구하기(2) (Success)
+- [Algorithm_SQL] 자동차 대여 기록 별 대여 금액 구하기 (Success)
