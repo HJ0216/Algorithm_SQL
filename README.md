@@ -113,3 +113,6 @@
 - [Algorithm_SQL] 그룹별 조건에 맞는 식당 목록 출력하기 (Success)
 - [Algorithm_SQL] 입양 시각 구하기(2) (Success)
 - [Algorithm_SQL] 자동차 대여 기록 별 대여 금액 구하기 (Success)
+
+## Lv. 5
+- [Algorithm_SQL] 상품을 구매한 회원 비율 구하기 (Success)
