@@ -1,38 +1,8 @@
-# Algorithm-Java 문제 풀이
-## Lv. 1
-- [[Programmers] 폰켓몬 문제 풀이 (Success)](https://hj0216.tistory.com/754)
-- [[Algorithm_Java] 2016년 (Success)](https://hj0216.tistory.com/839)
-- [[Programmers] 가운데 글자 가져오기 (Success)](https://hj0216.tistory.com/757)
-- [[Programmers] 같은 숫자는 싫어 (Success)](https://hj0216.tistory.com/760)
-- [[Programmers] 나누어 떨어지는 숫자 배열 (Success)](https://hj0216.tistory.com/769)
-- [[Programmers] 두 정수 사이의 합 (Success)](https://hj0216.tistory.com/776)
-- [[Programmers] 문자열 내 마음대로 정렬하기 (Success)](https://hj0216.tistory.com/778)
-- [[Algorithm_Java] 문자열 내 p와 y의 개수 (Success)](https://hj0216.tistory.com/838)
-- [[Algorithm_Java] 문자열 내림차순으로 배치하기 (Success)](https://hj0216.tistory.com/851)
-- [[Algorithm_Java] 문자열 다루기 기본 (Success)](https://hj0216.tistory.com/866)
-- [[Algorithm_Java] 서울에서 김서방 찾기 (Success)](https://hj0216.tistory.com/867)
-- [[Algorithm_Java] 소수 찾기 (Success)](https://hj0216.tistory.com/868)
-- [[Algorithm_Java] 수박수박수박수박수박수? (Success)](https://hj0216.tistory.com/869)
-- [[Algorithm_Java] 문자열을 정수로 바꾸기 (Success)](https://hj0216.tistory.com/870)
-- [[Algorithm_Java] 시저 암호 (Success)](https://hj0216.tistory.com/872)
-- [[Algorithm_Java] 약수의 합 (Success)](https://hj0216.tistory.com/873)
-- [[Programmers] 소수 만들기 (Success)](https://hj0216.tistory.com/767)
-- [[Algorithm_Java] 바탕화면 정리 (Success)](https://hj0216.tistory.com/862)
-- [[Algorithm_Java] 추억 점수 (Success)](https://hj0216.tistory.com/858)
-- [[Algorithm_Java] 달리기 경주 (Success)](https://hj0216.tistory.com/857)
+# Algorithm_SQL 문제 풀이
 
-## Lv. 2
-- [[Algorithm_Java] 시소 짝꿍 (Success)](https://hj0216.tistory.com/850)
-- [[Algorithm_Java] 뒤에 있는 큰 수 찾기 (Success)](https://hj0216.tistory.com/845)
-- [[Algorithm_Java] 광물 캐기 (Success)](https://hj0216.tistory.com/844)
-- [[Algorithm_Java] 연속된 부분 수열의 합 (Success)](https://hj0216.tistory.com/841)
+## Programmers
 
-<br/>
-
-
-
-# Algorithm-SQL 문제 풀이
-## Lv. 1
+### Lv. 1
 - [[Programmers] 모든 레코드 조회하기 (Success)](https://hj0216.tistory.com/706)
 - [[Programmers] 어린 동물 찾기 (Success)](https://hj0216.tistory.com/695)
 - [[Programmers] 아픈 동물 찾기 (Success)](https://hj0216.tistory.com/693)
@@ -58,7 +28,9 @@
 - [[Programmers] 특정 옵션이 포함된 자동차 리스트 구하기 (Success)](https://hj0216.tistory.com/759)
 - [[Programmers] 조건에 부합하는 중고거래 댓글 조회하기 (Success)](https://hj0216.tistory.com/762)
 
-## Lv. 2
+<br/>
+
+### Lv. 2
 - [[Programmers] 최솟값 구하기 (Success)](https://hj0216.tistory.com/766)
 - [[Programmers] 고양이와 개는 몇 마리 있을까 (Success)](https://hj0216.tistory.com/768)
 - [[Programmers] 동명 동물 수 찾기 (Success)](https://hj0216.tistory.com/772)
@@ -83,7 +55,9 @@
 - [[Algorithm_SQL] 자동차 평균 대여 기간 구하기 (Success)](https://hj0216.tistory.com/848)
 - [[Algorithm_SQL] 조건에 부합하는 중고거래 상태 조회하기 (Success)](https://hj0216.tistory.com/853)
 
-## Lv. 3
+<br/>
+
+### Lv. 3
 - [[Algorithm_SQL] 없어진 기록 찾기 (Success)](https://hj0216.tistory.com/832)
 - [[Algorithm_SQL] 있었는데요 없었습니다 (Success)](https://hj0216.tistory.com/842)
 - [[Algorithm_SQL] 오랜 기간 보호한 동물(1) (Success)](https://hj0216.tistory.com/846)
@@ -99,7 +73,9 @@
 - [Algorithm_SQL] 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기 (Success)
 - [Algorithm_SQL] 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기 (Success)
 
-## Lv. 4
+<br/>
+
+### Lv. 4
 - [[Algorithm_SQL] 보호소에서 중성화한 동물 (Success)](https://hj0216.tistory.com/861)
 - [Algorithm_SQL] 5월 식품들의 총매출 조회하기 (Success)
 - [Algorithm_SQL] 식품분류별 가장 비싼 식품의 정보 조회하기 (Success)
@@ -114,5 +90,18 @@
 - [Algorithm_SQL] 입양 시각 구하기(2) (Success)
 - [Algorithm_SQL] 자동차 대여 기록 별 대여 금액 구하기 (Success)
 
-## Lv. 5
+<br/>
+
+### Lv. 5
 - [Algorithm_SQL] 상품을 구매한 회원 비율 구하기 (Success)
+
+
+
+<br/>
+
+
+
+## HackerRank
+
+### Easy
+- [Algorithm_SQL] Revising_the_Select_Query_1 (Success)
