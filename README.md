@@ -89,6 +89,7 @@
 - [Algorithm_SQL] 그룹별 조건에 맞는 식당 목록 출력하기 (Success)
 - [Algorithm_SQL] 입양 시각 구하기(2) (Success)
 - [Algorithm_SQL] 자동차 대여 기록 별 대여 금액 구하기 (Success)
+- [Algorithm_SQL] 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기 (Success)
 
 <br/>
 
