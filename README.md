@@ -106,3 +106,14 @@
 
 ### Easy
 - [Algorithm_SQL] Revising_the_Select_Query_1 (Success)
+
+
+
+<br/>
+
+
+
+## LeetCode
+
+### Easy
+- [Algorithm_SQL] 175. Combine Two Tables (Success)
