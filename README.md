@@ -117,3 +117,4 @@
 
 ### Easy
 - [Algorithm_SQL] 175. Combine Two Tables (Success)
+- [Algorithm_SQL] 181. Employees Earning More Than Their Managers (Success)
