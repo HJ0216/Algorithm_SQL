@@ -123,3 +123,4 @@
 
 ### Medium
 - [Algorithm_SQL] 176. Second Highest Salary (Success)
+- [Algorithm_SQL] 177. Nth Highest Salary (Success)
