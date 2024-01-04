@@ -120,6 +120,7 @@
 - [Algorithm_SQL] 181. Employees Earning More Than Their Managers (Success)
 - [Algorithm_SQL] 182. Duplicate Emails (Success)
 - [Algorithm_SQL] 183. Customers Who Never Order (Success)
+- [Algorithm_SQL] 1378. Replace Employee ID With The Unique Identifier (Success)
 
 ### Medium
 - [Algorithm_SQL] 176. Second Highest Salary (Success)
