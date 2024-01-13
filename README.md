@@ -133,3 +133,4 @@
 - [Algorithm_SQL] 177. Nth Highest Salary (Success)
 - [Algorithm_SQL] 178. Rank Scores (Success)
 - [Algorithm_SQL] 180. Consecutive Numbers (Success)
+- [Algorithm_SQL] 184. Department Highest Salary (Success)
