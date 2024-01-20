@@ -126,6 +126,7 @@
 - [Algorithm_SQL] 577. Employee Bonus (Success)
 - [Algorithm_SQL] 584. Find Customer Referee (Success)
 - [Algorithm_SQL] 586. Customer Placing the Largest Number of Orders (Success)
+- [Algorithm_SQL] 595. Big Countries (Success)
 - [Algorithm_SQL] 1378. Replace Employee ID With The Unique Identifier (Success)
 
 ### Medium
