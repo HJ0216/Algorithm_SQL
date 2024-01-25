@@ -129,6 +129,7 @@
 - [Algorithm_SQL] 595. Big Countries (Success)
 - [Algorithm_SQL] 596. Classes More Than 5 Students (Success)
 - [Algorithm_SQL] 607. Sales Person (Success)
+- [Algorithm_SQL] 610. Triangle Judgement (Success)
 - [Algorithm_SQL] 1378. Replace Employee ID With The Unique Identifier (Success)
 
 ### Medium
