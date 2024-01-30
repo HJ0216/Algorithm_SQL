@@ -139,3 +139,4 @@
 - [Algorithm_SQL] 180. Consecutive Numbers (Success)
 - [Algorithm_SQL] 184. Department Highest Salary (Success)
 - [Algorithm_SQL] 570. Managers with at Least 5 Direct Reports (Success)
+- [Algorithm_SQL] 608. Tree Node (Success)
